@@ -1,1 +1,5 @@
 *.code-workspace
+.Rproj.user
+*.Rproj
+.DS_Store
+Dockerfile
